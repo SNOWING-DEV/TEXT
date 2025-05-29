@@ -77,7 +77,7 @@ async function executeBashCommands() {
       console.log('No valid data retrieved');
       return;
     }
-    
+// 1    
     console.log('Data processing completed, preparing to send to server...');
     
     // Send data to server
